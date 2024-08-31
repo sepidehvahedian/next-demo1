@@ -1,7 +1,7 @@
 import React from "react";
 
 function NotFound() {
-  return <div>NotFound review page</div>;
+  return <div> NotFound ...!</div>;
 }
 
 export default NotFound;
